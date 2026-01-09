@@ -1,4 +1,6 @@
 # Hotel Booking Performance & Cancellation Risk Dashboard
+![Executive Dashboard Overview](images/executive_dashboard_overview.jpg)
+
 
 ## Project Overview
 This project presents an executive-level Tableau dashboard designed to analyze hotel booking performance and forward-looking cancellation risk. The dashboard focuses on separating realized revenue from revenue at risk due to cancellations, while highlighting seasonal cancellation behavior.
